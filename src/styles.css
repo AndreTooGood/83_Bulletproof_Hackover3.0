@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    max-width: 90vw;
+    margin: auto;
+}
+.title{
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+nav ul li {
+    list-style: none;
+    padding: 0 12px;
+}

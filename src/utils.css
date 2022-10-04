@@ -1,0 +1,16 @@
+.flex{
+    display:flex;
+}
+.items-center{
+     align-items:center;
+}
+.justify-center{
+    justify-items: center;
+}
+.space-between{
+    justify-content:space-between;
+}
+.m-x{
+    margin-left: 12px;
+    margin-right: 12px;
+}
